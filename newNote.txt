@@ -1,0 +1,3 @@
+New article
+new note
+the string after git add
